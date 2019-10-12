@@ -63,8 +63,8 @@ public class MyRestController {
 
 	private List<String> parseResponse(String input) {
 		Document document = Jsoup.parse(input);
-		String output = document.body().text().replaceAll("[^a-zA-Z0-9]", " ").replaceAll(" +", " ");
-		List<String> aList = Arrays.stream(output.split(" ")).filter(x -> x.length() > 4).collect(Collectors.toList());
+		String output = document.body().text().replaceAll("[^a-zA-Z0-9]", " ").replaceAll(" +", " ").toLowerCase();
+		List<String> aList = Arrays.stream(output.split(" ")).filter(x -> x.length() > 3).collect(Collectors.toList());
 		return aList;
 	}
 

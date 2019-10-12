@@ -31,11 +31,19 @@ public class WireMockUnitTestCases {
 	@BeforeClass
 	public static void stubregister() throws IOException {
 
-		stubFor(get(urlEqualTo("/godsList")).willReturn(aResponse().withStatus(200)
-				.withHeader("Content-Type", "application/json").withBodyFile("indianGods.txt")));
+		stubFor(get(urlEqualTo("/godsList"))
+				.willReturn(aResponse()
+						.withStatus(200)
+						.withFixedDelay(100)
+						.withHeader("Content-Type", "application/json")
+						.withBodyFile("indianGods.txt")));
 
-		stubFor(get(urlEqualTo("/wiki/mahabhartha")).willReturn(aResponse().withStatus(200)
-				.withHeader("Content-Type", "application/json").withBodyFile("mahabhartha.txt")));
+		stubFor(get(urlEqualTo("/wiki/mahabhartha"))
+				.willReturn(aResponse()
+						.withStatus(200)
+						.withFixedDelay(2000)
+						.withHeader("Content-Type", "application/json")
+						.withBodyFile("mahabhartha.txt")));
 
 	}
 
@@ -46,14 +54,20 @@ public class WireMockUnitTestCases {
 	}
 
 	@Test
-	public void testGodsName() throws Exception {
+	public void verifyGodsName_200() throws Exception {
+		List<String> godsList = controller.getIndiaGods();
+		assertNotNull(godsList);
+	}
+	
+	@Test
+	public void verifyPopularGods_200() throws Exception {
 		List<String> godsList = controller.getPopularGods();
 		assertNotNull(godsList);
 	}
 
 	@Test
-	public void calculateGodsName() throws Exception {
-		CompletableFuture<IndianGod> out = controller.findInWIKI("Krishna");
+	public void verifycalculateGodsName_200() throws Exception {
+		CompletableFuture<IndianGod> out = controller.findInWIKI("krishna");
 		assertNotNull(out.get());
 	}
 

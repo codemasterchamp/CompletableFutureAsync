@@ -3,14 +3,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Category:Hindu gods - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":14,"wgPageName":"Category:Hindu_gods","wgTitle":"Hindu gods","wgCurRevisionId":914362488,"wgRevisionId":914362488,"wgArticleId":704414,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Commons category link is on Wikidata using P373","Asian gods","Hindu deities"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Hindu_gods","wgRelevantArticleId":704414,
-"wgRequestId":"XaCyuwpAAEMAAIQFtm4AAAAQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7214270","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.action.view.categoryPage.styles":"ready","ext.categoryTree.styles":
-"ready","mediawiki.helplink":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+<title>:  - </title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":14,"wgPageName":":_","wgTitle":" ","wgCurRevisionId":914362488,"wgRevisionId":914362488,"wgArticleId":704414,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons  link is on Wikidata","Commons  link is on Wikidata using P373","Asian "," deities"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":":_","wgRelevantArticleId":704414,
+"wgRequestId":"XaCyuwpAAEMAAIQFtm4AAAAQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"","wgWikibaseItemId":"Q7214270","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.action.view.Page.styles":"ready","ext.Tree.styles":
+"ready","mediawiki.helplink":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.Tree","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
 "ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.categoryTree.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.Tree.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.Page.styles%7Cmediawiki.helplink%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -18,105 +18,45 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Category:Hindu_gods&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Category:Hindu_gods&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/x-wiki" title="Edit  page" href="/w/index.php?title=:_&amp;action=edit"/>
+<link rel="edit" title="Edit  page" href="/w/index.php?title=:_&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/.png"/>
+<link rel="shortcut icon" href="/static/favicon/.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title=" (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en..org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Category:Hindu_gods"/>
+<link rel="alternate" type="application/atom+xml" title=" Atom feed" href="/w/index.php?title=Special:&amp;feed=atom"/>
+<link rel="canonical" href="https://en..org/wiki/:_"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-Category_Hindu_gods rootpage-Category_Hindu_gods skin-vector action-view">
-<div id="mw-page-base" class="noprint"></div>
-<div id="mw-head-base" class="noprint"></div>
-<div id="content" class="mw-body" role="main">
-	<a id="top"></a>
-	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-	<div class="mw-indicators mw-body-content">
-<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="/wiki/Help:Category" target="_blank" class="mw-helplink">Help</a></div>
-</div>
-
-	<h1 id="firstHeading" class="firstHeading" lang="en">Category:Hindu gods</h1>
-	
-	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
-		
-		
-		
-		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>See also <a href="/wiki/Category:Hindu_goddesses" title="Category:Hindu goddesses">Category:Hindu goddesses</a>.
-</p>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Hindu_deities" class="extiw" title="commons:Category:Hindu deities">Hindu deities</a></b></i>.</td></tr>
-</tbody></table>
-<!-- 
-NewPP limit report
-Parsed by mw1240
-Cached time: 20191009051231
-Cache expiry: 2592000
-Dynamic content: false
-Complications: []
-CPU time usage: 0.052 seconds
-Real time usage: 0.086 seconds
-Preprocessor visited node count: 128/1000000
-Preprocessor generated node count: 0/1500000
-Post‐expand include size: 2509/2097152 bytes
-Template argument size: 237/2097152 bytes
-Highest expansion depth: 10/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.016/10.000 seconds
-Lua memory usage: 1.07 MB/50 MB
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%   72.698      1 Template:Commons_cat
-100.00%   72.698      1 -total
- 37.96%   27.593      1 Template:Commons
- 34.35%   24.970      1 Template:Sister_project
- 28.79%   20.933      1 Template:Side_box
- 10.84%    7.880      1 Template:Replace
--->
-
-<!-- Saved in parser cache with key enwiki:pcache:idhash:704414-0!canonical and timestamp 20191009051231 and revision id 914362488
- -->
-</div><div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-subcategories">
-<h2>Subcategories</h2>
-<p>This category has the following 11 subcategories, out of 11 total.
-</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Category:Adityas" title="Category:Adityas">Adityas</a>‎ <span title="Contains 0 subcategories, 14 pages, and 0 files" dir="ltr">(14 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
-<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Ayya_Vaikundar" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Ayya_Vaikundar" title="Category:Ayya Vaikundar">Ayya Vaikundar</a>‎ <span title="Contains 1 subcategory, 15 pages, and 0 files" dir="ltr">(1 C, 15 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>F</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Category:Forms_of_Ganesha" title="Category:Forms of Ganesha">Forms of Ganesha</a>‎ <span title="Contains 0 subcategories, 10 pages, and 0 files" dir="ltr">(10 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
-<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Category:Forms_of_Krishna" title="Category:Forms of Krishna">Forms of Krishna</a>‎ <span title="Contains 0 subcategories, 20 pages, and 0 files" dir="ltr">(20 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
-<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Forms_of_Shiva" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Forms_of_Shiva" title="Category:Forms of Shiva">Forms of Shiva</a>‎ <span title="Contains 1 subcategory, 60 pages, and 0 files" dir="ltr">(1 C, 60 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>G</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Ganesha" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Ganesha" title="Category:Ganesha">Ganesha</a>‎ <span title="Contains 3 subcategories, 28 pages, and 3 files" dir="ltr">(3 C, 28 P, 3 F)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>K</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Krishna" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Krishna" title="Category:Krishna">Krishna</a>‎ <span title="Contains 8 subcategories, 46 pages, and 0 files" dir="ltr">(8 C, 46 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>N</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Navagraha" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Navagraha" title="Category:Navagraha">Navagraha</a>‎ <span title="Contains 2 subcategories, 17 pages, and 0 files" dir="ltr">(2 C, 17 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>P</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Category:Prajapatis" title="Category:Prajapatis">Prajapatis</a>‎ <span title="Contains 0 subcategories, 12 pages, and 0 files" dir="ltr">(12 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>R</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Regional_Hindu_gods" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Regional_Hindu_gods" title="Category:Regional Hindu gods">Regional Hindu gods</a>‎ <span title="Contains 1 subcategory, 38 pages, and 0 files" dir="ltr">(1 C, 38 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>V</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Vishnu" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Category:Vishnu" title="Category:Vishnu">Vishnu</a>‎ <span title="Contains 3 subcategories, 1 page, and 0 files" dir="ltr">(3 C, 1 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div></div></div>
-</div><div id="mw-pages">
-<h2><span id="Pages_in_category"></span>Pages in category "Hindu gods"</h2>
-<p>The following 89 pages are in this category, out of  89 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?" title="Wikipedia:FAQ/Categorization">learn more</a>).
-</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-__ rootpage-__ skin-vector action-view">
+<div class="mw--generated" lang="en" dir="ltr"><div id="mw-">
+<h2></h2>
+<p>  has the  11 , out of 11 .
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-"><div class="mw--group"><h3>A</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeEmptyBullet">► </span> <a href="/wiki/:Adityas" title=":Adityas">Adityas</a>&lrm; <span title="Contains 0 , 14 , and 0 files" dir="ltr">(14 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li>
+<li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="Ayya_Vaikundar" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:Ayya_Vaikundar" title=":Ayya Vaikundar">Ayya Vaikundar</a>&lrm; <span title="Contains 1 sub, 15 , and 0 files" dir="ltr">(1 C, 15 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>F</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeEmptyBullet">► </span> <a href="/wiki/:_of_Ganesha" title=": of Ganesha"> of Ganesha</a>&lrm; <span title="Contains 0 , 10 , and 0 files" dir="ltr">(10 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li>
+<li><div class="TreeSection"><div class="TreeItem"><span class="TreeEmptyBullet">► </span> <a href="/wiki/:_of_Krishna" title=": of Krishna"> of Krishna</a>&lrm; <span title="Contains 0 , 20 , and 0 files" dir="ltr">(20 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li>
+<li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="_of_Shiva" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:_of_Shiva" title=": of Shiva"> of Shiva</a>&lrm; <span title="Contains 1 sub, 60 , and 0 files" dir="ltr">(1 C, 60 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>G</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="Ganesha" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:Ganesha" title=":Ganesha">Ganesha</a>&lrm; <span title="Contains 3 , 28 , and 3 files" dir="ltr">(3 C, 28 P, 3 F)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>K</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="Krishna" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:Krishna" title=":Krishna">Krishna</a>&lrm; <span title="Contains 8 , 46 , and 0 files" dir="ltr">(8 C, 46 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>N</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="Navagraha" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:Navagraha" title=":Navagraha">Navagraha</a>&lrm; <span title="Contains 2 , 17 , and 0 files" dir="ltr">(2 C, 17 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>P</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeEmptyBullet">► </span> <a href="/wiki/:Prajapatis" title=":Prajapatis">Prajapatis</a>&lrm; <span title="Contains 0 , 12 , and 0 files" dir="ltr">(12 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>R</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="__" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:__" title=":  ">  </a>&lrm; <span title="Contains 1 sub, 38 , and 0 files" dir="ltr">(1 C, 38 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div><div class="mw--group"><h3>V</h3>
+<ul><li><div class="TreeSection"><div class="TreeItem"><span class="TreeBullet"><span class="TreeToggle TreeToggleHandlerAttached" data-ct-title="Vishnu" data-ct-state="collapsed" title="expand">►</span> </span> <a href="/wiki/:Vishnu" title=":Vishnu">Vishnu</a>&lrm; <span title="Contains 3 , 1 page, and 0 files" dir="ltr">(3 C, 1 P)</span></div><div class="TreeChildren" style="display:none"></div></div></li></ul></div></div></div>
+</div><div id="mw-">
+<h2><span id="_in_"></span> in  " "</h2>
+<p>The  89  are in  , out of  89 .  list may not    (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a__list_not_be_up_to_date?" title="Wikipedia:FAQ/Categorization"> </a>).
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-"><div class="mw--group"><h3>A</h3>
 <ul><li><a href="/wiki/Acintya" title="Acintya">Acintya</a></li>
 <li><a href="/wiki/Adhi_Vinayaka" title="Adhi Vinayaka">Adhi Vinayaka</a></li>
 <li><a href="/wiki/Adimurti" title="Adimurti">Adimurti</a></li>
 <li><a href="/wiki/Agni" title="Agni">Agni</a></li>
 <li><a href="/wiki/Ahmuvan" title="Ahmuvan">Ahmuvan</a></li>
-<li><a href="/wiki/Amshuman_(deity)" title="Amshuman (deity)">Amshuman (deity)</a></li>
+<li><a href="/wiki/Amshuman_()" title="Amshuman ()">Amshuman ()</a></li>
 <li><a href="/wiki/Anala" title="Anala">Anala</a></li>
 <li><a href="/wiki/Anila" title="Anila">Anila</a></li>
 <li><a href="/wiki/Aniruddha" title="Aniruddha">Aniruddha</a></li>
@@ -125,212 +65,81 @@ Transclusion expansion time report (%,ms,calls,template)
 <li><a href="/wiki/Aru%E1%B9%87a" title="Aruṇa">Aruṇa</a></li>
 <li><a href="/wiki/Aryaman" title="Aryaman">Aryaman</a></li>
 <li><a href="/wiki/Ashvins" title="Ashvins">Ashvins</a></li>
-<li><a href="/wiki/Ayyappan" title="Ayyappan">Ayyappan</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<li><a href="/wiki/Ayyappan" title="Ayyappan">Ayyappan</a></li></ul></div><div class="mw--group"><h3>B</h3>
 <ul><li><a href="/wiki/Balarama" title="Balarama">Balarama</a></li>
-<li><a href="/wiki/Banjari_(deity)" title="Banjari (deity)">Banjari (deity)</a></li>
-<li><a href="/wiki/Bhaga" title="Bhaga">Bhaga</a></li>
-<li><a href="/wiki/Bhand_Deva_Temple" title="Bhand Deva Temple">Bhand Deva Temple</a></li>
+<li><a href="/wiki/_()" title=" ()"> ()</a></li>
+<li><a href="/wiki/" title=""></a></li>
+<li><a href="/wiki/_Deva_" title=" Deva "> Deva </a></li>
 <li><a href="/wiki/Brahma" title="Brahma">Brahma</a></li>
-<li><a href="/wiki/B%E1%B9%9Bhaspati" title="Bṛhaspati">Bṛhaspati</a></li>
-<li><a href="/wiki/Budha" title="Budha">Budha</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<li><a href="/wiki/B%E1%B9%9B" title="Bṛ">Bṛ</a></li>
+<li><a href="/wiki/Budha" title="Budha">Budha</a></li></ul></div><div class="mw--group"><h3>C</h3>
 <ul><li><a href="/wiki/Chandra" title="Chandra">Chandra</a></li>
 <li><a href="/wiki/Chitragupta" title="Chitragupta">Chitragupta</a></li>
-<li><a href="/wiki/Cock_flag" title="Cock flag">Cock flag</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<li><a href="/wiki/Cock_flag" title="Cock flag">Cock flag</a></li></ul></div><div class="mw--group"><h3>D</h3>
 <ul><li><a href="/wiki/Dattatreya" title="Dattatreya">Dattatreya</a></li>
 <li><a href="/wiki/Advaita_Pariv%C4%81ra" title="Advaita Parivāra">Advaita Parivāra</a></li>
 <li><a href="/wiki/Dhanvantari" title="Dhanvantari">Dhanvantari</a></li>
 <li><a href="/wiki/Dhar%C4%81" title="Dharā">Dharā</a></li>
 <li><a href="/wiki/Dharmathakur" title="Dharmathakur">Dharmathakur</a></li>
-<li><a href="/wiki/Dhatri" title="Dhatri">Dhatri</a></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<li><a href="/wiki/Dhatri" title="Dhatri">Dhatri</a></li></ul></div><div class="mw--group"><h3>G</h3>
 <ul><li><a href="/wiki/Ganesha" title="Ganesha">Ganesha</a></li>
-<li><a href="/wiki/Guardians_of_the_directions" title="Guardians of the directions">Guardians of the directions</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<li><a href="/wiki/Guardians_of_the_" title="Guardians of the ">Guardians of the </a></li></ul></div><div class="mw--group"><h3>H</h3>
 <ul><li><a href="/wiki/Harihara" title="Harihara">Harihara</a></li>
 <li><a href="/wiki/Hatakeswara" title="Hatakeswara">Hatakeswara</a></li>
-<li><a href="/wiki/Himavat" title="Himavat">Himavat</a></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<li><a href="/wiki/Himavat" title="Himavat">Himavat</a></li></ul></div><div class="mw--group"><h3>I</h3>
 <ul><li><a href="/wiki/Indra" title="Indra">Indra</a></li>
 <li><a href="/wiki/Ishana" title="Ishana">Ishana</a></li>
-<li><a href="/wiki/Ithiyapuram_kaavu" title="Ithiyapuram kaavu">Ithiyapuram kaavu</a></li></ul></div><div class="mw-category-group"><h3>J</h3>
+<li><a href="/wiki/Ithiyapuram_" title="Ithiyapuram ">Ithiyapuram </a></li></ul></div><div class="mw--group"><h3>J</h3>
 <ul><li><a href="/wiki/Jagannath" title="Jagannath">Jagannath</a></li>
-<li><a href="/wiki/Jayanta" title="Jayanta">Jayanta</a></li></ul></div><div class="mw-category-group"><h3>K</h3>
+<li><a href="/wiki/Jayanta" title="Jayanta">Jayanta</a></li></ul></div><div class="mw--group"><h3>K</h3>
 <ul><li><a href="/wiki/Kamadeva" title="Kamadeva">Kamadeva</a></li>
 <li><a href="/wiki/Kartikeya" title="Kartikeya">Kartikeya</a></li>
 <li><a href="/wiki/K%C3%A9rdik" title="Kérdik">Kérdik</a></li>
 <li><a href="/wiki/Khatushyam" title="Khatushyam">Khatushyam</a></li>
 <li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
-<li><a href="/wiki/Kubera" title="Kubera">Kubera</a></li></ul></div><div class="mw-category-group"><h3>L</h3>
-<ul><li><a href="/wiki/Lakshmana" title="Lakshmana">Lakshmana</a></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<li><a href="/wiki/Kubera" title="Kubera">Kubera</a></li></ul></div><div class="mw--group"><h3>L</h3>
+<ul><li><a href="/wiki/Lakshmana" title="Lakshmana">Lakshmana</a></li></ul></div><div class="mw--group"><h3>M</h3>
 <ul><li><a href="/wiki/Mahakala" title="Mahakala">Mahakala</a></li>
 <li><a href="/wiki/Manibhadra" title="Manibhadra">Manibhadra</a></li>
 <li><a href="/wiki/Manikeswari" title="Manikeswari">Manikeswari</a></li>
-<li><a href="/wiki/M%C4%81rtanda" title="Mārtanda">Mārtanda</a></li>
+<li><a href="/wiki/M%C4%81" title="Mā">Mā</a></li>
 <li><a href="/wiki/Maruts" title="Maruts">Maruts</a></li>
-<li><a href="/wiki/Mitra_(Vedic)" title="Mitra (Vedic)">Mitra (Vedic)</a></li>
-<li><a href="/wiki/Mitra%E2%80%93Varuna" title="Mitra–Varuna">Mitra–Varuna</a></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<li><a href="/wiki/Mitra_()" title="Mitra ()">Mitra ()</a></li>
+<li><a href="/wiki/Mitra%E2%80%93Varuna" title="Mitra–Varuna">Mitra–Varuna</a></li></ul></div><div class="mw--group"><h3>N</h3>
 <ul><li><a href="/wiki/Naigamesha" title="Naigamesha">Naigamesha</a></li>
 <li><a href="/wiki/Nalakuvara" title="Nalakuvara">Nalakuvara</a></li>
 <li><a href="/wiki/Nandi_(bull)" title="Nandi (bull)">Nandi (bull)</a></li>
 <li><a href="/wiki/Nandipada" title="Nandipada">Nandipada</a></li>
-<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara-Narayana</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara-Narayana</a></li></ul></div><div class="mw--group"><h3>P</h3>
 <ul><li><a href="/wiki/Para-Vasudeva" title="Para-Vasudeva">Para-Vasudeva</a></li>
 <li><a href="/wiki/Parjanya" title="Parjanya">Parjanya</a></li>
 <li><a href="/wiki/Pashupati" title="Pashupati">Pashupati</a></li>
 <li><a href="/wiki/Prajapati" title="Prajapati">Prajapati</a></li>
 <li><a href="/wiki/Pulastya" title="Pulastya">Pulastya</a></li>
-<li><a href="/wiki/Pushan" title="Pushan">Pushan</a></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<li><a href="/wiki/Pushan" title="Pushan">Pushan</a></li></ul></div><div class="mw--group"><h3>R</h3>
 <ul><li><a href="/wiki/Rama" title="Rama">Rama</a></li>
 <li><a href="/wiki/Ramanujan_(name)" title="Ramanujan (name)">Ramanujan (name)</a></li>
 <li><a href="/wiki/Revanta" title="Revanta">Revanta</a></li>
 <li><a href="/wiki/Ribhus" title="Ribhus">Ribhus</a></li>
 <li><a href="/wiki/Rudra" title="Rudra">Rudra</a></li>
-<li><a href="/wiki/Rudras" title="Rudras">Rudras</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<li><a href="/wiki/Rudras" title="Rudras">Rudras</a></li></ul></div><div class="mw--group"><h3>S</h3>
 <ul><li><a href="/wiki/Saura" title="Saura">Saura</a></li>
 <li><a href="/wiki/Shani" title="Shani">Shani</a></li>
 <li><a href="/wiki/Sharabha" title="Sharabha">Sharabha</a></li>
 <li><a href="/wiki/Shesha" title="Shesha">Shesha</a></li>
 <li><a href="/wiki/Shiva" title="Shiva">Shiva</a></li>
-<li><a href="/wiki/Soma_(deity)" title="Soma (deity)">Soma (deity)</a></li>
-<li><a href="/wiki/Surya" title="Surya">Surya</a></li></ul></div><div class="mw-category-group"><h3>T</h3>
-<ul><li><a href="/wiki/Thirty-three_gods" title="Thirty-three gods">Thirty-three gods</a></li>
+<li><a href="/wiki/Soma_()" title="Soma ()">Soma ()</a></li>
+<li><a href="/wiki/Surya" title="Surya">Surya</a></li></ul></div><div class="mw--group"><h3>T</h3>
+<ul><li><a href="/wiki/-_" title="- ">- </a></li>
 <li><a href="/wiki/Trimurti" title="Trimurti">Trimurti</a></li>
-<li><a href="/wiki/Tvastar" title="Tvastar">Tvastar</a></li></ul></div><div class="mw-category-group"><h3>V</h3>
+<li><a href="/wiki/Tvastar" title="Tvastar">Tvastar</a></li></ul></div><div class="mw--group"><h3>V</h3>
 <ul><li><a href="/wiki/Varuna" title="Varuna">Varuna</a></li>
 <li><a href="/wiki/Vayu" title="Vayu">Vayu</a></li>
 <li><a href="/wiki/Vishnu" title="Vishnu">Vishnu</a></li>
 <li><a href="/wiki/Vishvakarman" title="Vishvakarman">Vishvakarman</a></li>
-<li><a href="/wiki/Vishvaksena" title="Vishvaksena">Vishvaksena</a></li></ul></div><div class="mw-category-group"><h3>Y</h3>
+<li><a href="/wiki/" title=""></a></li></ul></div><div class="mw--group"><h3>Y</h3>
 <ul><li><a href="/wiki/Yama" title="Yama">Yama</a></li>
-<li><a href="/wiki/Yama_(Hinduism)" title="Yama (Hinduism)">Yama (Hinduism)</a></li></ul></div></div></div>
-</div></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
-		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Hindu_gods&amp;oldid=914362488">https://en.wikipedia.org/w/index.php?title=Category:Hindu_gods&amp;oldid=914362488</a>"</div>
-		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Asian_gods" title="Category:Asian gods">Asian gods</a></li><li><a href="/wiki/Category:Hindu_deities" title="Category:Hindu deities">Hindu deities</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-ns-shown">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373" title="Category:Commons category link is on Wikidata using P373">Commons category link is on Wikidata using P373</a></li></ul></div></div>
-		<div class="visualClear"></div>
-		
-	</div>
-</div>
-<div id='mw-data-after-content'>
-	<div class="read-more-container"></div>
-</div>
-
-
-		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3AHindu+gods" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3AHindu+gods" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-							<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Category:Hindu_gods" title="View the category page [c]" accesskey="c">Category</a></span></li><li id="ca-talk"><span><a href="/wiki/Category_talk:Hindu_gods" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
-						<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-						<ul class="menu">
-													</ul>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Category:Hindu_gods">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Category:Hindu_gods&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Category:Hindu_gods&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
-						<h3 id="p-cactions-label"><span>More</span></h3>
-						<ul class="menu">
-													</ul>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
-			<h3 id="p-navigation-label">Navigation</h3>
-			<div class="body">
-								<ul>
-					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
-			<h3 id="p-interaction-label">Interaction</h3>
-			<div class="body">
-								<ul>
-					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
-			<h3 id="p-tb-label">Tools</h3>
-			<div class="body">
-								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Category:Hindu_gods" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Category:Hindu_gods" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Category:Hindu_gods&amp;oldid=914362488" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Category:Hindu_gods&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7214270" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hindu_deities" hreflang="en">Wikimedia Commons</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
-			<h3 id="p-coll-print_export-label">Print/export</h3>
-			<div class="body">
-								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Category%3AHindu+gods">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Category%3AHindu+gods&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Category:Hindu_gods&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
-			<h3 id="p-lang-label">Languages</h3>
-			<div class="body">
-								<ul>
-					<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81_%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%A4%E0%A6%BE" title="বিষয়শ্রেণী:হিন্দু দেবতা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%86%D0%BD%D0%B4%D1%83%D1%96%D1%81%D1%86%D0%BA%D1%96%D1%8F_%D0%B1%D0%B0%D0%B3%D1%96" title="Катэгорыя:Індуісцкія багі – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%82_%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%A4%E0%A4%BE" title="श्रेणी:हिन्दू देवता – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%B1%D0%BE%D0%B3%D0%BE%D0%B2%D0%B5" title="Категория:Индийски богове – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kategorija:Hinduisti%C4%8Dki_bogovi" title="Kategorija:Hinduistički bogovi – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kategorie:Gottheit_des_Hinduismus" title="Kategorie:Gottheit des Hinduismus – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kategoria:Hinduen_jainkoak" title="Kategoria:Hinduen jainkoak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%AE%D8%AF%D8%A7%DB%8C%D8%A7%D9%86_%D9%87%D9%86%D8%AF%D9%88" title="رده:خدایان هندو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%82_%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%A4%E0%A4%BE" title="श्रेणी:हिन्दू देवता – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kategorija:Hinduisti%C4%8Dki_bogovi" title="Kategorija:Hinduistički bogovi – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kategori:Dewa_Hindu" title="Kategori:Dewa Hindu – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%98%E1%83%9C%E1%83%93%E1%83%A3%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A6%E1%83%9B%E1%83%94%E1%83%A0%E1%83%97%E1%83%94%E1%83%91%E1%83%98" title="კატეგორია:ინდუისტური ღმერთები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A5%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BA%D0%B8_%D0%B1%D0%BE%D0%B3%D0%BE%D0%B2%D0%B8" title="Категорија:Хиндуистички богови – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:%E0%B4%B9%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%81_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%A8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B5%BC" title="വർഗ്ഗം:ഹിന്ദു ദേവന്മാർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kategori:Dewa_Hindu" title="Kategori:Dewa Hindu – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Category:%E3%83%92%E3%83%B3%E3%83%89%E3%82%A5%E3%83%BC%E6%95%99%E3%81%AE%E7%A5%9E" title="Category:ヒンドゥー教の神 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kategoria:B%C3%B3stwa_m%C4%99skie_w_hinduizmie" title="Kategoria:Bóstwa męskie w hinduizmie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Category:Hindu_gods" title="Category:Hindu gods – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Indick%C3%AD_bohovia" title="Kategória:Indickí bohovia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kategorija:Hindujski_bogovi" title="Kategorija:Hindujski bogovi – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Luokka:Hindulaiset_jumalat" title="Luokka:Hindulaiset jumalat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%AE%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B9" title="หมวดหมู่:เทวดาในศาสนาฮินดู – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kategori:Hint_tanr%C4%B1lar%C4%B1" title="Kategori:Hint tanrıları – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%DB%81:%DB%81%D9%86%D8%AF%D9%88_%D8%AF%DB%8C%D9%88%D8%AA%D8%A7" title="زمرہ:ہندو دیوتا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Nam_th%E1%BA%A7n_%E1%BA%A4n_%C4%90%E1%BB%99_gi%C3%A1o" title="Thể loại:Nam thần Ấn Độ giáo – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7214270#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-				<div id="footer" role="contentinfo">
-						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 6 September 2019, at 23:50<span class="anonymous-show">&#160;(UTC)</span>.</li>
-								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-							</ul>
-						<ul id="footer-places">
-								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Category:Hindu_gods&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-							</ul>
-										<ul id="footer-icons" class="noprint">
-										<li id="footer-copyrightico">
-						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
-										<li id="footer-poweredbyico">
-						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
-									</ul>
-						<div style="clear: both;"></div>
-		</div>
-		
-
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.052","walltime":"0.086","ppvisitednodes":{"value":128,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2509,"limit":2097152},"templateargumentsize":{"value":237,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   72.698      1 Template:Commons_cat","100.00%   72.698      1 -total"," 37.96%   27.593      1 Template:Commons"," 34.35%   24.970      1 Template:Sister_project"," 28.79%   20.933      1 Template:Side_box"," 10.84%    7.880      1 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.016","limit":"10.000"},"limitreport-memusage":{"value":1126947,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20191009051231","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1272"});});</script>
+<li><a href="/wiki/Yama_()" title="Yama ()">Yama ()</a></li></ul></div></div></div>
+</div></div>
 </body>
 </html>
