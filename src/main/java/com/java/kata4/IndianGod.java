@@ -1,4 +1,4 @@
-package com.javacodegeeks;
+package com.java.kata4;
 
 public class IndianGod implements Comparable<IndianGod> {
  

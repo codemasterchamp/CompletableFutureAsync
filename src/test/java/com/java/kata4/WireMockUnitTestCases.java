@@ -1,4 +1,4 @@
-package com.javacodegeeks;
+package com.java.kata4;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.aResponse;
 import static com.github.tomakehurst.wiremock.client.WireMock.get;
@@ -20,6 +20,8 @@ import org.junit.ClassRule;
 import org.junit.Test;
 
 import com.github.tomakehurst.wiremock.junit.WireMockRule;
+import com.java.kata4.IndianGod;
+import com.java.kata4.MyRestController;
 
 public class WireMockUnitTestCases {
 

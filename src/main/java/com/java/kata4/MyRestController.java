@@ -1,4 +1,4 @@
-package com.javacodegeeks;
+package com.java.kata4;
 
 import java.io.IOException;
 import java.util.Arrays;
