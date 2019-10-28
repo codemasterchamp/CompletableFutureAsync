@@ -46,6 +46,7 @@ public class MyRestController {
 		String response = httpGetCall(GET_GODS);
 		List<String> aList  = parseResponse(response);
 		Set<String> uniqueResult = new TreeSet<String>(aList); 
+		System.out.println(uniqueResult);
 		return uniqueResult.stream().collect(Collectors.toList());
 	}
 

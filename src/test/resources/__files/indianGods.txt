@@ -66,36 +66,6 @@
 <li><a href="/wiki/Aryaman" title="Aryaman">Aryaman</a></li>
 <li><a href="/wiki/Ashvins" title="Ashvins">Ashvins</a></li>
 <li><a href="/wiki/Ayyappan" title="Ayyappan">Ayyappan</a></li></ul></div><div class="mw--group"><h3>B</h3>
-<ul><li><a href="/wiki/Balarama" title="Balarama">Balarama</a></li>
-<li><a href="/wiki/_()" title=" ()"> ()</a></li>
-<li><a href="/wiki/" title=""></a></li>
-<li><a href="/wiki/_Deva_" title=" Deva "> Deva </a></li>
-<li><a href="/wiki/Brahma" title="Brahma">Brahma</a></li>
-<li><a href="/wiki/B%E1%B9%9B" title="Bṛ">Bṛ</a></li>
-<li><a href="/wiki/Budha" title="Budha">Budha</a></li></ul></div><div class="mw--group"><h3>C</h3>
-<ul><li><a href="/wiki/Chandra" title="Chandra">Chandra</a></li>
-<li><a href="/wiki/Chitragupta" title="Chitragupta">Chitragupta</a></li>
-<li><a href="/wiki/Cock_flag" title="Cock flag">Cock flag</a></li></ul></div><div class="mw--group"><h3>D</h3>
-<ul><li><a href="/wiki/Dattatreya" title="Dattatreya">Dattatreya</a></li>
-<li><a href="/wiki/Advaita_Pariv%C4%81ra" title="Advaita Parivāra">Advaita Parivāra</a></li>
-<li><a href="/wiki/Dhanvantari" title="Dhanvantari">Dhanvantari</a></li>
-<li><a href="/wiki/Dhar%C4%81" title="Dharā">Dharā</a></li>
-<li><a href="/wiki/Dharmathakur" title="Dharmathakur">Dharmathakur</a></li>
-<li><a href="/wiki/Dhatri" title="Dhatri">Dhatri</a></li></ul></div><div class="mw--group"><h3>G</h3>
-<ul><li><a href="/wiki/Ganesha" title="Ganesha">Ganesha</a></li>
-<li><a href="/wiki/Guardians_of_the_" title="Guardians of the ">Guardians of the </a></li></ul></div><div class="mw--group"><h3>H</h3>
-<ul><li><a href="/wiki/Harihara" title="Harihara">Harihara</a></li>
-<li><a href="/wiki/Hatakeswara" title="Hatakeswara">Hatakeswara</a></li>
-<li><a href="/wiki/Himavat" title="Himavat">Himavat</a></li></ul></div><div class="mw--group"><h3>I</h3>
-<ul><li><a href="/wiki/Indra" title="Indra">Indra</a></li>
-<li><a href="/wiki/Ishana" title="Ishana">Ishana</a></li>
-<li><a href="/wiki/Ithiyapuram_" title="Ithiyapuram ">Ithiyapuram </a></li></ul></div><div class="mw--group"><h3>J</h3>
-<ul><li><a href="/wiki/Jagannath" title="Jagannath">Jagannath</a></li>
-<li><a href="/wiki/Jayanta" title="Jayanta">Jayanta</a></li></ul></div><div class="mw--group"><h3>K</h3>
-<ul><li><a href="/wiki/Kamadeva" title="Kamadeva">Kamadeva</a></li>
-<li><a href="/wiki/Kartikeya" title="Kartikeya">Kartikeya</a></li>
-<li><a href="/wiki/K%C3%A9rdik" title="Kérdik">Kérdik</a></li>
-<li><a href="/wiki/Khatushyam" title="Khatushyam">Khatushyam</a></li>
 <li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
 <li><a href="/wiki/Kubera" title="Kubera">Kubera</a></li></ul></div><div class="mw--group"><h3>L</h3>
 <ul><li><a href="/wiki/Lakshmana" title="Lakshmana">Lakshmana</a></li></ul></div><div class="mw--group"><h3>M</h3>
@@ -106,29 +76,6 @@
 <li><a href="/wiki/Maruts" title="Maruts">Maruts</a></li>
 <li><a href="/wiki/Mitra_()" title="Mitra ()">Mitra ()</a></li>
 <li><a href="/wiki/Mitra%E2%80%93Varuna" title="Mitra–Varuna">Mitra–Varuna</a></li></ul></div><div class="mw--group"><h3>N</h3>
-<ul><li><a href="/wiki/Naigamesha" title="Naigamesha">Naigamesha</a></li>
-<li><a href="/wiki/Nalakuvara" title="Nalakuvara">Nalakuvara</a></li>
-<li><a href="/wiki/Nandi_(bull)" title="Nandi (bull)">Nandi (bull)</a></li>
-<li><a href="/wiki/Nandipada" title="Nandipada">Nandipada</a></li>
-<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara-Narayana</a></li></ul></div><div class="mw--group"><h3>P</h3>
-<ul><li><a href="/wiki/Para-Vasudeva" title="Para-Vasudeva">Para-Vasudeva</a></li>
-<li><a href="/wiki/Parjanya" title="Parjanya">Parjanya</a></li>
-<li><a href="/wiki/Pashupati" title="Pashupati">Pashupati</a></li>
-<li><a href="/wiki/Prajapati" title="Prajapati">Prajapati</a></li>
-<li><a href="/wiki/Pulastya" title="Pulastya">Pulastya</a></li>
-<li><a href="/wiki/Pushan" title="Pushan">Pushan</a></li></ul></div><div class="mw--group"><h3>R</h3>
-<ul><li><a href="/wiki/Rama" title="Rama">Rama</a></li>
-<li><a href="/wiki/Ramanujan_(name)" title="Ramanujan (name)">Ramanujan (name)</a></li>
-<li><a href="/wiki/Revanta" title="Revanta">Revanta</a></li>
-<li><a href="/wiki/Ribhus" title="Ribhus">Ribhus</a></li>
-<li><a href="/wiki/Rudra" title="Rudra">Rudra</a></li>
-<li><a href="/wiki/Rudras" title="Rudras">Rudras</a></li></ul></div><div class="mw--group"><h3>S</h3>
-<ul><li><a href="/wiki/Saura" title="Saura">Saura</a></li>
-<li><a href="/wiki/Shani" title="Shani">Shani</a></li>
-<li><a href="/wiki/Sharabha" title="Sharabha">Sharabha</a></li>
-<li><a href="/wiki/Shesha" title="Shesha">Shesha</a></li>
-<li><a href="/wiki/Shiva" title="Shiva">Shiva</a></li>
-<li><a href="/wiki/Soma_()" title="Soma ()">Soma ()</a></li>
 <li><a href="/wiki/Surya" title="Surya">Surya</a></li></ul></div><div class="mw--group"><h3>T</h3>
 <ul><li><a href="/wiki/-_" title="- ">- </a></li>
 <li><a href="/wiki/Trimurti" title="Trimurti">Trimurti</a></li>

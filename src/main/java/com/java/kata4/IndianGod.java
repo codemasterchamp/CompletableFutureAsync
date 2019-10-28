@@ -23,6 +23,12 @@ public class IndianGod implements Comparable<IndianGod> {
 		return "{" + this.name + ":" 
 				   + this.occurance + "}";
 	}
+	
+	@Override
+	public boolean equals(Object obj) {
+		// TODO Auto-generated method stub
+		return super.equals(obj);
+	}
 
 	@Override
 	public int compareTo(IndianGod o) {

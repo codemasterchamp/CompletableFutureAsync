@@ -59,12 +59,14 @@ public class WireMockUnitTestCases {
 	public void verifyGodsName_200() throws Exception {
 		List<String> godsList = controller.getIndiaGods();
 		assertNotNull(godsList);
+		System.out.println(godsList);
 	}
 	
 	@Test
 	public void verifyPopularGods_200() throws Exception {
 		List<String> godsList = controller.getPopularGods();
 		assertNotNull(godsList);
+		System.out.println(godsList);
 	}
 
 	@Test
@@ -75,7 +77,7 @@ public class WireMockUnitTestCases {
 
 	@Override
 	protected void finalize() throws Throwable {
-		wireMockRule.stop();
+		//wireMockRule.stop();
 		System.out.println("Stub Server down...");
 	}
 
